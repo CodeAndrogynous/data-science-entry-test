@@ -31,6 +31,3 @@ ntu-data-entry-test/
 This is done by Noorul Fahima, 
 email: noorulfahima7136@gmail.com
 
----
-This README serves as a guide to help navigate the assessment and execute the solutions efficiently.
-
